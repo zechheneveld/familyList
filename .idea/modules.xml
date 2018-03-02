@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/familyList(EnterAndSearch).iml" filepath="$PROJECT_DIR$/.idea/modules/familyList(EnterAndSearch).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/familyList(EnterAndSearch)_main.iml" filepath="$PROJECT_DIR$/.idea/modules/familyList(EnterAndSearch)_main.iml" group="familyList(EnterAndSearch)" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/familyList(EnterAndSearch)_test.iml" filepath="$PROJECT_DIR$/.idea/modules/familyList(EnterAndSearch)_test.iml" group="familyList(EnterAndSearch)" />
+    </modules>
+  </component>
+</project>

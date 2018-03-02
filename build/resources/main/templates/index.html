@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Family Members</title>
+
+    <link rel="stylesheet" th:href="@{/style.css}"/>
+
+    <script type="text/javascript" th:src="@{/jquery.js}"></script>
+    <script type="text/javascript" th:src="@{/client.js}"></script>
+
+</head>
+<body>
+    <h1>Welcome to the Heneveld Family Page.</h1>
+    <h3>Please enter a family number or their number of order in the family.</h3>
+
+    <form>
+        <input id="txtId" type="text" placeholder="Enter Number of Order"/>
+        <input id="txtFName" type="text" placeholder="Enter First Name"/>
+        <input id="txtLName" type="text" placeholder="Enter Last Name"/>
+        <button id="btnSubmit">Submit Member</button>
+    </form>
+    <form>
+        <input id="txtSearch" type="text" placeholder="Enter Number of Order to Search"/>
+        <button id="btnSearch">Search Member</button>
+    </form>
+    <div id="container"></div>
+</body>
+</html>
